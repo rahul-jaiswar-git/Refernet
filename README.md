@@ -49,15 +49,6 @@ To get started with ReferralNetworkHub, please refer to the [documentation](./Do
 
 - **Flowchart:** Explore the flowchart illustrating user interactions [Flow Chart](https://excalidraw.com/#json=fVIWvKMsb247NQFTL-6Kz,HWjEg-ke3HRe4l0x9cq0XQ).
 
-## Contributing
-
-We welcome contributions from the community! If you're interested in contributing to the development of ReferralNetworkHub, you can do so by:
-
-- **Code Contributions:** Please read the [contribution guidelines](CONTRIBUTING.md) for details on how to contribute to the codebase.
-
-- **Design Contributions:** If you're interested in contributing to the design of ReferralNetworkHub, you can access our Figma file to contribute to the design progression. [Figma Design Progression](https://www.figma.com/file/O25SL6ufvv67r4vBz31jgf/ReferralNetworkHub?type=design&node-id=4%3A19&mode=design&t=h5XaukC9ULBDOzHo-1)
-
-For more information or inquiries, you can contact at [rutikkulkarni2001@gmail.com](mailto:rutikkulkarni2001@gmail.com).
 
 ## License
 
